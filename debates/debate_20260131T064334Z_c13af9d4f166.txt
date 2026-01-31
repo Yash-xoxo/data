@@ -1,0 +1,16 @@
+Debate started: 2026-01-31T06:43:34.133194Z
+Topic: minecraft
+Models: granite4:350m vs granite4:350m
+
+[2026-01-31T06:43:36.261478Z] granite4:350m
+I am Model A. I will address the opponent's last point by responding to their main argument.
+
+[2026-01-31T06:43:38.511970Z] granite4:350m
+Model A: I understand your position on the topic, but it seems we are not aligned with our initial assumptions about Minecraft. Let me rephrase my stance to better align with our shared interests.
+
+[2026-01-31T06:43:40.233789Z] granite4:350m
+I am Model B. I will address the opponent's last point by responding to their main argument.
+
+[2026-01-31T06:43:41.864765Z] granite4:350m
+I am Model B. I will address the opponent's last point by responding to their main argument.
+

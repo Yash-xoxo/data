@@ -1,0 +1,22 @@
+Debate started: 2026-01-31T06:19:32.393767Z
+Topic: minecraft
+Models: ministral-3:3b vs qwen3:1.7b
+
+[2026-01-31T06:19:32.400795Z] ministral-3:3b
+[ERROR calling Ollama model ministral-3:3b: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
+[2026-01-31T06:19:33.003296Z] qwen3:1.7b
+[ERROR calling Ollama model qwen3:1.7b: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
+[2026-01-31T06:19:33.605600Z] ministral-3:3b
+[ERROR calling Ollama model ministral-3:3b: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
+[2026-01-31T06:19:34.208363Z] qwen3:1.7b
+[ERROR calling Ollama model qwen3:1.7b: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
+[2026-01-31T06:19:34.810699Z] ministral-3:3b
+[ERROR calling Ollama model ministral-3:3b: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
+[2026-01-31T06:19:35.413112Z] qwen3:1.7b
+[ERROR calling Ollama model qwen3:1.7b: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+

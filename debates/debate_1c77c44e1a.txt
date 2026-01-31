@@ -1,0 +1,21 @@
+Debate started 2026-01-31T06:31:18.253767Z
+Topic: minecraft
+
+[2026-01-31T06:31:18.256029Z] gamma3:4b
+[OLLAMA ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
+[2026-01-31T06:31:19.189514Z] qwen3:4b
+
+
+[2026-01-31T06:31:19.991559Z] gamma3:4b
+[OLLAMA ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
+[2026-01-31T06:31:20.926360Z] qwen3:4b
+
+
+[2026-01-31T06:31:21.728911Z] gamma3:4b
+[OLLAMA ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
+[2026-01-31T06:31:22.652169Z] qwen3:4b
+
+

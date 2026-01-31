@@ -1,0 +1,7 @@
+Debate started: 2026-01-31T06:23:50.708310Z
+Topic: minecraft
+Models: gamma3:4b vs qwen3:4b
+
+[2026-01-31T06:23:50.711398Z] gamma3:4b
+[ERROR calling Ollama model gamma3:4b: 404 Client Error: Not Found for url: http://localhost:11434/api/chat]
+
