@@ -31,8 +31,8 @@ DEFAULT_CURIOUS = "Set - Your - Model"
 DEFAULT_EXPLAINER = "Set - Your - Model"
 DEFAULT_SUMMARIZER = "Set - Your - Model"
 
-NUM_CTX = 512
-NUM_PREDICT = 128
+NUM_CTX = 1024
+NUM_PREDICT = 512
 DEFAULT_ROUNDS = 3
 
 BASE_DIR = Path("debate2")
@@ -63,7 +63,7 @@ def safe_topic_folder(topic: str) -> str:
     t = re.sub(r"\s+", "_", t)
     return (t[:60] or "untitled_topic")
 
-def ollama_call(model: str, prompt: str, num_ctx: int = NUM_CTX, num_predict: int = NUM_PREDICT, timeout: int = 240) -> str:
+def ollama_call(model: str, prompt: str, num_ctx: int = NUM_CTX, num_predict: int = NUM_PREDICT, timeout: int = 600) -> str:
     payload = {
         "model": model,
         "prompt": prompt,
@@ -159,7 +159,7 @@ Give a clear, structured, and detailed explanation."""
             state["chat"] += entry_a + "\n"
 
             # small pause
-            time.sleep(2.5)
+            time.sleep(1.5)
 
         # summarization
         state["status"] = "summarizing"
